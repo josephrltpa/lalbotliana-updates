@@ -1,7 +1,7 @@
 {
   "version": "2.1.0",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/update-2.1.0.zip",
-  "sha256": "d0a8b1ec4d59e85df0809576c362406697ff2a7137ef1f02f8bf62837486fe2f",
-  "size": 166,
-  "notes": "Test update: adds update_marker.txt"
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.0.zip",
+  "sha256": "ea74e6c2e57eade2671aa3ea94b96511ca634de4a359be129f2e3d7defc58415",
+  "size": 14251868,
+  "notes": "v2.1.0 - first real patch update"
 }
