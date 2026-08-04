@@ -1,7 +1,7 @@
 {
   "version": "2.1.0",
-  "url": "https://example.com/test-patch.zip",
-  "sha256": "test",
-  "size": 100,
-  "notes": "First test update."
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/update-2.1.0.zip",
+  "sha256": "d0a8b1ec4d59e85df0809576c362406697ff2a7137ef1f02f8bf62837486fe2f",
+  "size": 166,
+  "notes": "Test update: adds update_marker.txt"
 }
