@@ -1,0 +1,7 @@
+{
+  "version": "2.1.0",
+  "url": "https://example.com/test-patch.zip",
+  "sha256": "test",
+  "size": 100,
+  "notes": "First test update."
+}
