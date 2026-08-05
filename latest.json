@@ -1,7 +1,7 @@
 {
-  "version": "2.1.1",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.1.zip",
-  "sha256": "68eda976f454de7e93f4184baa9af2cd056e6ad609d527cc36d3b421b3ff62ac",
-  "size": 14371012,
-  "notes": "v2.1.1 - Shows app version on the Settings page header"
+  "version": "2.1.2",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.2.zip",
+  "sha256": "47342beb9f06d2030e6d1c60f6320029e13817fa917066b98eb53f51fe1df777",
+  "size": 14370493,
+  "notes": "v2.1.2 - Shows app version on the Settings page header"
 }
