@@ -1,7 +1,7 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.2.zip",
-  "sha256": "47342beb9f06d2030e6d1c60f6320029e13817fa917066b98eb53f51fe1df777",
-  "size": 14370493,
-  "notes": "v2.1.2 - Shows app version on the Settings page header"
+  "sha256": "741c914f350d8a6266476b9912f2ce63d0e4a06492cd7130467998126f4300e4",
+  "size": 14574663,
+  "notes": "v2.1.3 - App icon leh restore down diklo siam xeuh"
 }
