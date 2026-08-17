@@ -1,7 +1,7 @@
 {
-  "version": "2.1.4",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.4.zip",
-  "sha256": "f43f8ece97e91eb635ec2c20b3ea9b5f6e2e20529eba19b020448e6793ab35a0",
-  "size": 14576660,
-  "notes": "v2.1.4 - Ekyc Check Fix na..calome"
+  "version": "2.1.5",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.5.zip",
+  "sha256": "a4b1483f395c30cb712233fba5af3cee6d52800eee19df8488d4128c6f27282b",
+  "size": 14583894,
+  "notes": "v2.1.5 - Open link in new window leh work edit tlem..calome"
 }
