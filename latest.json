@@ -1,7 +1,7 @@
 {
-  "version": "2.1.7",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.7.zip",
-  "sha256": "9a7325ab8b3f97affdf0bfd49bf8fc21d8beb92d06db24a428c1d1966cf65a22",
-  "size": 14592159,
-  "notes": "v2.1.7 - raise exemption..calome"
+  "version": "2.1.8",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.1.8.zip",
+  "sha256": "4cc0ddc7763fb30312860e023a2ffc7acf9ad697177fd7f655717ef0646a01a5",
+  "size": 14593961,
+  "notes": "v2.1.8 - raise exemption..calome"
 }
