@@ -1,7 +1,7 @@
 {
-  "version": "2.2.1",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.1.zip",
-  "sha256": "24fef245cfc21e495fbbc99cd3cace13571f7db9b930acae8450d244d9c98a74",
-  "size": 14606831,
-  "notes": "v2.2.1 - fto module update na..calome"
+  "version": "2.2.2",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.2.zip",
+  "sha256": "45c55a7bde7662057c8145903e3b898bb74e3b66569453b249e75cdb7e54bfd0",
+  "size": 14607970,
+  "notes": "v2.2.2 - fto module fix xeuh..calome"
 }
