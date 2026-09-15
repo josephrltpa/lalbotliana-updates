@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.0.zip",
-  "sha256": "0cf585884d8c1c67a20b8868b0896d0e712492bb76dcee1a945d372b2fb45250",
-  "size": 14595509,
-  "notes": "v2.2.0 - raise exemption auto mode fix na..calome"
+  "version": "2.2.1",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.1.zip",
+  "sha256": "24fef245cfc21e495fbbc99cd3cace13571f7db9b930acae8450d244d9c98a74",
+  "size": 14606831,
+  "notes": "v2.2.1 - fto module update na..calome"
 }
