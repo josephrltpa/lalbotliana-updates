@@ -1,7 +1,7 @@
 {
-  "version": "2.2.2",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.2.zip",
-  "sha256": "45c55a7bde7662057c8145903e3b898bb74e3b66569453b249e75cdb7e54bfd0",
-  "size": 14607970,
-  "notes": "v2.2.2 - fto module fix xeuh..calome"
+  "version": "2.2.3",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.3.zip",
+  "sha256": "d46a6d60be3176171c9c9de9612a1438d604b25b0ab30a66d8e9f44ba0f0d599",
+  "size": 14608776,
+  "notes": "v2.2.3 - raise exemption fix..calome"
 }
