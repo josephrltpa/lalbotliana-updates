@@ -1,7 +1,7 @@
 {
-  "version": "2.2.3",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.3.zip",
-  "sha256": "d46a6d60be3176171c9c9de9612a1438d604b25b0ab30a66d8e9f44ba0f0d599",
-  "size": 14608776,
-  "notes": "v2.2.3 - raise exemption fix..calome"
+  "version": "2.2.4",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.4.zip",
+  "sha256": "2722afea8903d76eff0516996e18f541e533c4a24579b536c0c68ae772d92b6b",
+  "size": 14614804,
+  "notes": "v2.2.4 - macro stop fix na mei2..calome"
 }
