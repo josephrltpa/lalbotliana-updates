@@ -1,7 +1,7 @@
 {
-  "version": "2.2.4",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.4.zip",
-  "sha256": "2722afea8903d76eff0516996e18f541e533c4a24579b536c0c68ae772d92b6b",
-  "size": 14614804,
-  "notes": "v2.2.4 - macro stop fix na mei2..calome"
+  "version": "2.2.5",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.5.zip",
+  "sha256": "8f9f05804be5ea473e6ee48353482ef03da1271247e5531ff2f28fccb6d30519",
+  "size": 14621965,
+  "notes": "v2.2.5 - fail-safe login dah belh..calome"
 }
