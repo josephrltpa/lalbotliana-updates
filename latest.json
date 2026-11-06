@@ -1,7 +1,7 @@
 {
-  "version": "2.2.5",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.5.zip",
-  "sha256": "8f9f05804be5ea473e6ee48353482ef03da1271247e5531ff2f28fccb6d30519",
-  "size": 14621965,
-  "notes": "v2.2.5 - fail-safe login dah belh..calome"
+  "version": "2.2.6",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.6.zip",
+  "sha256": "c29372d7b8c788ac7952839d25a91ad511b28d21bfc9603d975c08c3f95e458f",
+  "size": 14643601,
+  "notes": "v2.2.6 - open link in new tab leh a dang tlem..calome"
 }
