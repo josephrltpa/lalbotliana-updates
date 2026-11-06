@@ -1,7 +1,7 @@
 {
-  "version": "2.2.6",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.6.zip",
-  "sha256": "c29372d7b8c788ac7952839d25a91ad511b28d21bfc9603d975c08c3f95e458f",
-  "size": 14643601,
-  "notes": "v2.2.6 - open link in new tab leh a dang tlem..calome"
+  "version": "2.2.7",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.7.zip",
+  "sha256": "c33d7bb1fa368827306c1ede78ce173278bfc7bb44a8ded61cf18681f4224b2b",
+  "size": 14652110,
+  "notes": "v2.2.7 - Bhuvan added..calome"
 }
