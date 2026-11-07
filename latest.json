@@ -1,7 +1,7 @@
 {
-  "version": "2.2.7",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.7.zip",
-  "sha256": "c33d7bb1fa368827306c1ede78ce173278bfc7bb44a8ded61cf18681f4224b2b",
-  "size": 14652110,
-  "notes": "v2.2.7 - Bhuvan added..calome"
+  "version": "2.2.8",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.8.zip",
+  "sha256": "73648b1297466816525c1cf04e66d81a2fe36e5d145e5a13c45ccd64764ca6db",
+  "size": 14880970,
+  "notes": "v2.2.8 - split view leh eng ilo fahran..calome"
 }
