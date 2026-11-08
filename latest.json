@@ -1,7 +1,7 @@
 {
-  "version": "2.2.8",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.8.zip",
-  "sha256": "73648b1297466816525c1cf04e66d81a2fe36e5d145e5a13c45ccd64764ca6db",
-  "size": 14880970,
-  "notes": "v2.2.8 - split view leh eng ilo fahran..calome"
+  "version": "2.2.9",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.2.9.zip",
+  "sha256": "ad3a65f67faad89cb30eef30bb64f9017df9e1081e37b82ffd99b03c0a983006",
+  "size": 14887560,
+  "notes": "v2.2.9 - bug lian pui hehe..calome"
 }
