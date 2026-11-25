@@ -1,7 +1,7 @@
 {
-  "version": "2.3.1",
-  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.3.1.zip",
-  "sha256": "85d5143861f1ffc139ade7530fe037763429d8ccc41444a4b812d0b6c4f829c1",
-  "size": 14924594,
-  "notes": "v2.3.1 - fast demand leh global settings ..calome"
+  "version": "2.3.2",
+  "url": "https://raw.githubusercontent.com/josephrltpa/lalbotliana-updates/main/LalBotLiana-patch-2.3.2.zip",
+  "sha256": "3206050adcffc6c15e6cdcfc833f324eba1534e29beb624921195de985884116",
+  "size": 14979381,
+  "notes": "v2.3.2 - Aurora Glass UI: new sidebar navigation, collapsible panels, command palette (Ctrl+K), redesigned Home / Work Edit / Fast Demand, fixed in-module tab bar...calome"
 }
